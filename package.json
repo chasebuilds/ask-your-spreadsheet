@@ -1,0 +1,27 @@
+{
+  "name": "ask-your-spreadsheet",
+  "version": "0.1.0",
+  "description": "In-browser AI search over a spreadsheet. Rows are embedded locally; nothing leaves the browser.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4791 --strictPort",
+    "sample": "node scripts/make-sample.mjs",
+    "bench": "node bench/run.mjs",
+    "test": "vitest run",
+    "smoke": "playwright test"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.2",
+    "papaparse": "^5.7.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.2"
+  }
+}

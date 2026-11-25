@@ -1,0 +1,429 @@
+{
+  "model": "Xenova/all-MiniLM-L6-v2",
+  "rows": 360,
+  "queries": 45,
+  "agg": {
+    "meaning": {
+      "n": 24,
+      "keyword": {
+        "rec": 12.399999999999999,
+        "rr": 14.7459710550887
+      },
+      "semantic": {
+        "rec": 17,
+        "rr": 20.74285714285714
+      },
+      "hybrid": {
+        "rec": 18.6,
+        "rr": 21.833333333333336
+      }
+    },
+    "all": {
+      "n": 45,
+      "keyword": {
+        "rec": 19.366666666666664,
+        "rr": 23.16247587640843
+      },
+      "semantic": {
+        "rec": 25.200000000000003,
+        "rr": 31.424404761904754
+      },
+      "hybrid": {
+        "rec": 39.2,
+        "rr": 41.366666666666674
+      }
+    },
+    "filter": {
+      "n": 13,
+      "keyword": {
+        "rec": 3.4000000000000004,
+        "rr": 5.0047451516491765
+      },
+      "semantic": {
+        "rec": 3.25,
+        "rr": 5.260714285714286
+      },
+      "hybrid": {
+        "rec": 13,
+        "rr": 13
+      }
+    },
+    "mixed": {
+      "n": 8,
+      "keyword": {
+        "rec": 3.5666666666666664,
+        "rr": 3.4117596696705514
+      },
+      "semantic": {
+        "rec": 4.95,
+        "rr": 5.420833333333333
+      },
+      "hybrid": {
+        "rec": 7.6,
+        "rr": 6.533333333333333
+      }
+    }
+  },
+  "perQuery": [
+    {
+      "q": "no hot water",
+      "kind": "meaning",
+      "relevant": 3,
+      "keyword": 0,
+      "semantic": 0,
+      "hybrid": 1
+    },
+    {
+      "q": "sink will not drain",
+      "kind": "meaning",
+      "relevant": 3,
+      "keyword": 1,
+      "semantic": 0,
+      "hybrid": 1
+    },
+    {
+      "q": "leaky tap",
+      "kind": "meaning",
+      "relevant": 6,
+      "keyword": 0,
+      "semantic": 0.4,
+      "hybrid": 0.4
+    },
+    {
+      "q": "frozen pipe broke",
+      "kind": "meaning",
+      "relevant": 6,
+      "keyword": 1,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "toilet keeps filling",
+      "kind": "meaning",
+      "relevant": 9,
+      "keyword": 1,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "sewage coming up in the basement",
+      "kind": "meaning",
+      "relevant": 9,
+      "keyword": 1,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "power keeps cutting out",
+      "kind": "meaning",
+      "relevant": 11,
+      "keyword": 0,
+      "semantic": 1,
+      "hybrid": 0.2
+    },
+    {
+      "q": "added plugs to a room",
+      "kind": "meaning",
+      "relevant": 5,
+      "keyword": 1,
+      "semantic": 0.2,
+      "hybrid": 0.8
+    },
+    {
+      "q": "lights blinking on and off",
+      "kind": "meaning",
+      "relevant": 9,
+      "keyword": 1,
+      "semantic": 0.6,
+      "hybrid": 1
+    },
+    {
+      "q": "standby power for outages",
+      "kind": "meaning",
+      "relevant": 9,
+      "keyword": 0,
+      "semantic": 0.4,
+      "hybrid": 0.4
+    },
+    {
+      "q": "heater will not turn on",
+      "kind": "meaning",
+      "relevant": 15,
+      "keyword": 0,
+      "semantic": 1,
+      "hybrid": 0.4
+    },
+    {
+      "q": "AC not cooling",
+      "kind": "meaning",
+      "relevant": 12,
+      "keyword": 0.2,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "annual maintenance visit on heating system",
+      "kind": "meaning",
+      "relevant": 11,
+      "keyword": 0,
+      "semantic": 0.6,
+      "hybrid": 0.6
+    },
+    {
+      "q": "fan motor died on the roof unit",
+      "kind": "meaning",
+      "relevant": 12,
+      "keyword": 1,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "water spot on the ceiling",
+      "kind": "meaning",
+      "relevant": 18,
+      "keyword": 0,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "wind blew shingles off",
+      "kind": "meaning",
+      "relevant": 18,
+      "keyword": 1,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "rain gutters fell down",
+      "kind": "meaning",
+      "relevant": 11,
+      "keyword": 1,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "brand new roof",
+      "kind": "meaning",
+      "relevant": 13,
+      "keyword": 1,
+      "semantic": 0,
+      "hybrid": 1
+    },
+    {
+      "q": "grass cutting",
+      "kind": "meaning",
+      "relevant": 9,
+      "keyword": 0.2,
+      "semantic": 1,
+      "hybrid": 0.2
+    },
+    {
+      "q": "tree came down in a storm",
+      "kind": "meaning",
+      "relevant": 12,
+      "keyword": 1,
+      "semantic": 0.8,
+      "hybrid": 0.8
+    },
+    {
+      "q": "yard floods after rain",
+      "kind": "meaning",
+      "relevant": 13,
+      "keyword": 0,
+      "semantic": 0.4,
+      "hybrid": 0.6
+    },
+    {
+      "q": "raking leaves in autumn",
+      "kind": "meaning",
+      "relevant": 14,
+      "keyword": 0,
+      "semantic": 0.6,
+      "hybrid": 0.2
+    },
+    {
+      "q": "deck refinishing",
+      "kind": "meaning",
+      "relevant": 18,
+      "keyword": 1,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "paint the lobby",
+      "kind": "meaning",
+      "relevant": 19,
+      "keyword": 0,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "customers in Pikeville who owe over $500",
+      "kind": "filter",
+      "relevant": 7,
+      "keyword": 0,
+      "semantic": 0.2,
+      "hybrid": 1
+    },
+    {
+      "q": "overdue jobs in Hazard",
+      "kind": "filter",
+      "relevant": 8,
+      "keyword": 1,
+      "semantic": 0.6,
+      "hybrid": 1
+    },
+    {
+      "q": "plumbing jobs last spring",
+      "kind": "filter",
+      "relevant": 7,
+      "keyword": 0,
+      "semantic": 0.2,
+      "hybrid": 1
+    },
+    {
+      "q": "roofing in summer 2025",
+      "kind": "filter",
+      "relevant": 8,
+      "keyword": 0,
+      "semantic": 0.2,
+      "hybrid": 1
+    },
+    {
+      "q": "jobs billed over $5,000",
+      "kind": "filter",
+      "relevant": 20,
+      "keyword": 0,
+      "semantic": 0,
+      "hybrid": 1
+    },
+    {
+      "q": "Whitesburg balance due more than 1000",
+      "kind": "filter",
+      "relevant": 4,
+      "keyword": 0,
+      "semantic": 0.25,
+      "hybrid": 1
+    },
+    {
+      "q": "electrical work in Paintsville",
+      "kind": "filter",
+      "relevant": 6,
+      "keyword": 1,
+      "semantic": 0.6,
+      "hybrid": 1
+    },
+    {
+      "q": "HVAC jobs in January 2026",
+      "kind": "filter",
+      "relevant": 2,
+      "keyword": 0,
+      "semantic": 0,
+      "hybrid": 1
+    },
+    {
+      "q": "invoiced landscaping",
+      "kind": "filter",
+      "relevant": 14,
+      "keyword": 1,
+      "semantic": 0.2,
+      "hybrid": 1
+    },
+    {
+      "q": "painting jobs under $200",
+      "kind": "filter",
+      "relevant": 5,
+      "keyword": 0,
+      "semantic": 0,
+      "hybrid": 1
+    },
+    {
+      "q": "Belfry jobs in fall 2025",
+      "kind": "filter",
+      "relevant": 7,
+      "keyword": 0.2,
+      "semantic": 0,
+      "hybrid": 1
+    },
+    {
+      "q": "who in Elkhorn City still owes money",
+      "kind": "filter",
+      "relevant": 21,
+      "keyword": 0.2,
+      "semantic": 0.6,
+      "hybrid": 1
+    },
+    {
+      "q": "Inez jobs billed between 300 and 600",
+      "kind": "filter",
+      "relevant": 11,
+      "keyword": 0,
+      "semantic": 0.4,
+      "hybrid": 1
+    },
+    {
+      "q": "water leaks in Prestonsburg",
+      "kind": "mixed",
+      "relevant": 11,
+      "keyword": 0.4,
+      "semantic": 0.8,
+      "hybrid": 0.6
+    },
+    {
+      "q": "no heat calls in Pikeville",
+      "kind": "mixed",
+      "relevant": 1,
+      "keyword": 0,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "storm cleanup in Hazard",
+      "kind": "mixed",
+      "relevant": 3,
+      "keyword": 0.6666666666666666,
+      "semantic": 1,
+      "hybrid": 1
+    },
+    {
+      "q": "overdue roof repairs",
+      "kind": "mixed",
+      "relevant": 14,
+      "keyword": 1,
+      "semantic": 0.6,
+      "hybrid": 1
+    },
+    {
+      "q": "drain problems that still owe over $100",
+      "kind": "mixed",
+      "relevant": 4,
+      "keyword": 0.5,
+      "semantic": 0.25,
+      "hybrid": 1
+    },
+    {
+      "q": "big electrical upgrades billed over $2,000",
+      "kind": "mixed",
+      "relevant": 17,
+      "keyword": 0,
+      "semantic": 0.8,
+      "hybrid": 1
+    },
+    {
+      "q": "cooling problems in summer 2026",
+      "kind": "mixed",
+      "relevant": 1,
+      "keyword": 0,
+      "semantic": 0,
+      "hybrid": 1
+    },
+    {
+      "q": "new roofs in Paintsville",
+      "kind": "mixed",
+      "relevant": 2,
+      "keyword": 1,
+      "semantic": 0.5,
+      "hybrid": 1
+    }
+  ]
+}

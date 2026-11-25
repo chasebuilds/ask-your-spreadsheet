@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ask Your Spreadsheet</title>
+  <meta name="description" content="Search a spreadsheet in plain English. Rows are embedded in your browser; nothing is uploaded." />
+  <link rel="stylesheet" href="./src/style.css" />
+</head>
+<body>
+  <div class="backdrop" aria-hidden="true"></div>
+  <main>
+    <header class="panel hero">
+      <p class="eyebrow">Chase Builds</p>
+      <h1>Ask your spreadsheet</h1>
+      <p class="lede">Drop in a CSV or Excel file and search it in plain English. A small AI model reads every row inside this tab. Your file is never uploaded.</p>
+    </header>
+
+    <section class="panel" id="load">
+      <label class="drop" id="drop">
+        <input type="file" id="file" accept=".csv,.xlsx,.xls,.tsv" hidden />
+        <strong>Drop a CSV or XLSX here</strong>
+        <span>or click to choose a file</span>
+      </label>
+      <div class="row">
+        <button id="sample" class="pill">Try the sample job ledger</button>
+        <a class="pill ghost" href="./sample.csv" download>Download the sample</a>
+      </div>
+      <p id="status" class="status" role="status" aria-live="polite">No sheet loaded yet.</p>
+      <div class="bar" aria-hidden="true"><div id="progress"></div></div>
+    </section>
+
+    <section class="panel" id="ask" hidden>
+      <form id="form" class="ask">
+        <input id="q" type="search" placeholder="customers in Pikeville who owe over $500" autocomplete="off" aria-label="Question" />
+        <select id="mode" aria-label="Search mode">
+          <option value="hybrid">Hybrid</option>
+          <option value="semantic">Meaning only</option>
+          <option value="keyword">Keywords only</option>
+        </select>
+        <button class="pill" type="submit">Search</button>
+      </form>
+      <div id="examples" class="chips"></div>
+      <div id="filters" class="chips filters"></div>
+      <div class="table-wrap"><table id="results"></table></div>
+    </section>
+
+    <footer>
+      <p>Model: all-MiniLM-L6-v2 (quantized, about 23 MB, fetched once from the Hugging Face CDN). The sample sheet is synthetic. <a href="https://github.com/chasebuilds/ask-your-spreadsheet">Source on GitHub</a>, MIT license.</p>
+    </footer>
+  </main>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

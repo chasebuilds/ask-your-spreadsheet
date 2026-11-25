@@ -1,0 +1,361 @@
+Job ID,Customer,City,Service,Date,Billed,Balance Due,Status,Notes
+J-1001,Redbud Florist,Inez,HVAC,2025-01-01,840,0,Paid,"air conditioner blowing warm, recharged refrigerant"
+J-1002,Long Branch Clinic,Hazard,Painting,2025-01-02,590,0,Paid,exterior trim scraped and repainted
+J-1003,Copper Creek Apartments,Paintsville,Roofing,2025-01-04,920,0,Paid,"storm damage, replaced missing shingles"
+J-1004,Ridgeview Tax Service,Elkhorn City,Painting,2025-01-07,165,0,Paid,exterior trim scraped and repainted
+J-1005,Rock Bridge Law Office,Elkhorn City,HVAC,2025-01-14,6235,0,Paid,replaced blower motor on rooftop unit
+J-1006,Blue Lick Rentals,Prestonsburg,Painting,2025-01-16,585,0,Paid,exterior trim scraped and repainted
+J-1007,Twin Rivers Rentals,Whitesburg,HVAC,2025-01-17,130,128,Overdue,seasonal tune-up on heat pump
+J-1008,Copper Creek Motel,Paintsville,Electrical,2025-01-20,775,775,Invoiced,"breaker keeps tripping, replaced panel breaker"
+J-1009,Rock Bridge Diner,Pikeville,Electrical,2025-01-20,3305,3305,Invoiced,wired backup generator transfer switch
+J-1010,Hemlock Realty,Hazard,Landscaping,2025-01-21,100,43,Overdue,leaf cleanup and haul away
+J-1011,Lone Oak Law Office,Elkhorn City,Painting,2025-01-21,295,250,Overdue,pressure washed and stained deck
+J-1012,Copper Creek Diner,Belfry,HVAC,2025-02-08,670,0,Paid,thermostat swapped for programmable model
+J-1013,Big Shoal Pharmacy,Hazard,HVAC,2025-02-09,465,0,Paid,thermostat swapped for programmable model
+J-1014,Twin Rivers Rentals,Paintsville,Roofing,2025-02-10,855,0,Paid,"gutters pulled loose, rehung and cleaned"
+J-1015,Redbud Clinic,Elkhorn City,Painting,2025-02-10,965,0,Paid,exterior trim scraped and repainted
+J-1016,Twin Rivers Motel,Whitesburg,Plumbing,2025-02-11,1165,1165,Invoiced,cleared clogged kitchen drain line
+J-1017,Twin Rivers Storage,Inez,Painting,2025-02-12,205,205,Invoiced,touched up scuffed hallway walls
+J-1018,Shelby Gap Storage,Whitesburg,HVAC,2025-02-14,2790,0,Paid,replaced blower motor on rooftop unit
+J-1019,Rock Bridge Realty,Elkhorn City,HVAC,2025-02-15,950,0,Paid,seasonal tune-up on heat pump
+J-1020,Big Shoal Pharmacy,Inez,Roofing,2025-02-19,405,0,Paid,patched flat roof membrane over office
+J-1021,Hemlock Realty,Elkhorn City,HVAC,2025-02-20,1155,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1022,Blue Lick Florist,Whitesburg,Landscaping,2025-02-22,630,0,Paid,spread mulch and planted shrubs at entrance
+J-1023,Ridgeview Daycare,Hazard,HVAC,2025-02-22,6535,0,Paid,replaced blower motor on rooftop unit
+J-1024,Ridgeview Daycare,Whitesburg,Painting,2025-02-22,300,300,Invoiced,pressure washed and stained deck
+J-1025,Mill Run Bakery,Whitesburg,Electrical,2025-02-24,875,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1026,Cedar Branch Dental,Elkhorn City,Landscaping,2025-02-24,925,0,Paid,removed fallen tree after windstorm
+J-1027,Grassy Ridge Florist,Prestonsburg,Painting,2025-02-24,575,0,Paid,touched up scuffed hallway walls
+J-1028,Long Branch Clinic,Paintsville,Plumbing,2025-02-25,95,0,Paid,"sewer backup in basement, snaked main line"
+J-1029,Lone Oak Motel,Belfry,Roofing,2025-03-05,4250,3454,Overdue,full tear-off and new metal roof
+J-1030,Grassy Ridge Rentals,Belfry,Plumbing,2025-03-05,860,0,Paid,"toilet running constantly, new flapper and fill valve"
+J-1031,Twin Rivers Clinic,Whitesburg,HVAC,2025-03-07,260,191,Overdue,seasonal tune-up on heat pump
+J-1032,Sandy Fork Daycare,Belfry,HVAC,2025-03-08,895,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1033,Mill Run Law Office,Whitesburg,Roofing,2025-03-10,945,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1034,Stony Point Realty,Paintsville,Landscaping,2025-03-10,885,316,Overdue,spread mulch and planted shrubs at entrance
+J-1035,Hemlock Realty,Belfry,Landscaping,2025-03-12,305,305,Invoiced,leaf cleanup and haul away
+J-1036,Grassy Ridge Insurance,Belfry,Roofing,2025-03-14,6710,6710,Invoiced,full tear-off and new metal roof
+J-1037,Copper Creek Diner,Elkhorn City,HVAC,2025-03-16,705,704,Overdue,"furnace not igniting, replaced flame sensor"
+J-1038,Lone Oak Law Office,Prestonsburg,Electrical,2025-03-16,775,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1039,Pine Knob Apartments,Paintsville,HVAC,2025-03-17,705,705,Invoiced,thermostat swapped for programmable model
+J-1040,Rock Bridge Realty,Belfry,Roofing,2025-03-21,1165,1165,Invoiced,"ceiling stain from roof leak, resealed flashing"
+J-1041,Lone Oak Pharmacy,Inez,HVAC,2025-03-21,6775,0,Paid,replaced blower motor on rooftop unit
+J-1042,Lone Oak Motel,Belfry,Plumbing,2025-03-22,1130,1130,Invoiced,"toilet running constantly, new flapper and fill valve"
+J-1043,Hemlock Rentals,Belfry,HVAC,2025-03-22,6335,0,Paid,replaced blower motor on rooftop unit
+J-1044,Hollow Creek Storage,Pikeville,Electrical,2025-03-22,180,180,Invoiced,"parking lot lamps out, replaced ballasts"
+J-1045,Twin Rivers Rentals,Belfry,HVAC,2025-03-23,3675,1813,Overdue,replaced blower motor on rooftop unit
+J-1046,Copper Creek Dental,Hazard,Electrical,2025-03-23,260,0,Paid,flickering lights traced to loose neutral
+J-1047,Big Shoal Diner,Paintsville,HVAC,2025-03-26,220,0,Paid,duct cleaning and new filters throughout
+J-1048,Hollow Creek Storage,Pikeville,Roofing,2025-03-27,4120,0,Paid,full tear-off and new metal roof
+J-1049,Twin Rivers Feed Store,Prestonsburg,Roofing,2025-03-28,565,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1050,Hemlock Rentals,Belfry,HVAC,2025-03-28,230,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1051,Rock Bridge Law Office,Prestonsburg,Painting,2025-03-29,1135,1135,Invoiced,interior repaint of waiting area
+J-1052,Lone Oak Apartments,Belfry,Painting,2025-03-29,900,0,Paid,touched up scuffed hallway walls
+J-1053,Shelby Gap Rentals,Hazard,Roofing,2025-04-04,665,665,Invoiced,"ceiling stain from roof leak, resealed flashing"
+J-1054,Twin Rivers Clinic,Inez,Roofing,2025-04-08,965,917,Overdue,patched flat roof membrane over office
+J-1055,Twin Rivers Storage,Belfry,Landscaping,2025-04-09,860,0,Paid,spread mulch and planted shrubs at entrance
+J-1056,Mill Run Rentals,Prestonsburg,Landscaping,2025-04-09,835,835,Invoiced,leaf cleanup and haul away
+J-1057,Pine Knob Apartments,Hazard,HVAC,2025-04-10,130,0,Paid,seasonal tune-up on heat pump
+J-1058,Big Shoal Florist,Paintsville,Electrical,2025-04-13,1135,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1059,Twin Rivers Insurance,Pikeville,Painting,2025-04-13,215,0,Paid,interior repaint of waiting area
+J-1060,Mill Run Law Office,Paintsville,Roofing,2025-04-14,795,795,Invoiced,"ceiling stain from roof leak, resealed flashing"
+J-1061,Rock Bridge Bakery,Inez,Electrical,2025-04-16,1000,0,Paid,"breaker keeps tripping, replaced panel breaker"
+J-1062,Grassy Ridge Rentals,Inez,Roofing,2025-04-16,730,363,Overdue,"ceiling stain from roof leak, resealed flashing"
+J-1063,Grassy Ridge Florist,Elkhorn City,Roofing,2025-04-17,905,0,Paid,"gutters pulled loose, rehung and cleaned"
+J-1064,Blue Lick Auto Parts,Whitesburg,Electrical,2025-04-19,590,0,Paid,flickering lights traced to loose neutral
+J-1065,Redbud Motel,Prestonsburg,Landscaping,2025-04-24,805,0,Paid,regraded yard to fix standing water
+J-1066,Rock Bridge Realty,Belfry,Roofing,2025-04-24,760,760,Invoiced,"storm damage, replaced missing shingles"
+J-1067,Shelby Gap Daycare,Hazard,Roofing,2025-04-25,1160,1160,Invoiced,"gutters pulled loose, rehung and cleaned"
+J-1068,Twin Rivers Tax Service,Belfry,Electrical,2025-05-01,865,410,Overdue,"parking lot lamps out, replaced ballasts"
+J-1069,Mill Run Law Office,Prestonsburg,Painting,2025-05-01,600,0,Paid,touched up scuffed hallway walls
+J-1070,Long Branch Law Office,Elkhorn City,Landscaping,2025-05-01,380,0,Paid,leaf cleanup and haul away
+J-1071,Rock Bridge Diner,Inez,Electrical,2025-05-05,730,730,Invoiced,"breaker keeps tripping, replaced panel breaker"
+J-1072,Mill Run Rentals,Belfry,Landscaping,2025-05-06,270,255,Overdue,regraded yard to fix standing water
+J-1073,Hollow Creek Pharmacy,Inez,HVAC,2025-05-07,1030,0,Paid,duct cleaning and new filters throughout
+J-1074,Mill Run Pharmacy,Whitesburg,Roofing,2025-05-07,900,282,Overdue,"storm damage, replaced missing shingles"
+J-1075,Mill Run Bakery,Hazard,Plumbing,2025-05-09,555,0,Paid,"sewer backup in basement, snaked main line"
+J-1076,Redbud Auto Parts,Pikeville,Painting,2025-05-13,260,0,Paid,exterior trim scraped and repainted
+J-1077,Copper Creek Dental,Whitesburg,Roofing,2025-05-16,305,305,Invoiced,"storm damage, replaced missing shingles"
+J-1078,Blue Lick Florist,Whitesburg,HVAC,2025-05-19,600,600,Invoiced,"furnace not igniting, replaced flame sensor"
+J-1079,Grassy Ridge Realty,Whitesburg,Electrical,2025-05-20,520,261,Overdue,"parking lot lamps out, replaced ballasts"
+J-1080,Copper Creek Storage,Hazard,Painting,2025-05-20,980,499,Overdue,touched up scuffed hallway walls
+J-1081,Cedar Branch Motel,Prestonsburg,HVAC,2025-05-22,930,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1082,Stony Point Rentals,Whitesburg,Painting,2025-05-24,370,227,Overdue,touched up scuffed hallway walls
+J-1083,Pine Knob Apartments,Pikeville,Painting,2025-05-25,250,250,Invoiced,interior repaint of waiting area
+J-1084,Copper Creek Apartments,Prestonsburg,HVAC,2025-05-29,1080,0,Paid,seasonal tune-up on heat pump
+J-1085,Copper Creek Diner,Pikeville,HVAC,2025-05-31,220,220,Invoiced,thermostat swapped for programmable model
+J-1086,Copper Creek Dental,Belfry,Roofing,2025-06-02,4555,0,Paid,full tear-off and new metal roof
+J-1087,Shelby Gap Daycare,Prestonsburg,Roofing,2025-06-08,825,357,Overdue,"storm damage, replaced missing shingles"
+J-1088,Stony Point Rentals,Elkhorn City,HVAC,2025-06-18,900,900,Invoiced,seasonal tune-up on heat pump
+J-1089,Redbud Auto Parts,Belfry,Painting,2025-06-20,990,0,Paid,pressure washed and stained deck
+J-1090,Rock Bridge Dental,Hazard,Painting,2025-06-25,95,95,Invoiced,interior repaint of waiting area
+J-1091,Grassy Ridge Realty,Paintsville,Landscaping,2025-06-28,775,0,Paid,regraded yard to fix standing water
+J-1092,Blue Lick Rentals,Pikeville,Plumbing,2025-06-30,995,0,Paid,"toilet running constantly, new flapper and fill valve"
+J-1093,Lone Oak Pharmacy,Whitesburg,Electrical,2025-07-02,700,0,Paid,installed new outlets in break room
+J-1094,Rock Bridge Diner,Elkhorn City,HVAC,2025-07-06,695,0,Paid,"air conditioner blowing warm, recharged refrigerant"
+J-1095,Shelby Gap Florist,Prestonsburg,Landscaping,2025-07-08,805,0,Paid,removed fallen tree after windstorm
+J-1096,Long Branch Florist,Hazard,Landscaping,2025-07-09,365,365,Invoiced,leaf cleanup and haul away
+J-1097,Long Branch Law Office,Inez,Landscaping,2025-07-12,135,82,Overdue,removed fallen tree after windstorm
+J-1098,Grassy Ridge Rentals,Prestonsburg,HVAC,2025-07-13,1015,0,Paid,"air conditioner blowing warm, recharged refrigerant"
+J-1099,Twin Rivers Clinic,Prestonsburg,Landscaping,2025-07-15,210,66,Overdue,removed fallen tree after windstorm
+J-1100,Stony Point Feed Store,Pikeville,HVAC,2025-07-15,250,0,Paid,thermostat swapped for programmable model
+J-1101,Hemlock Realty,Elkhorn City,Landscaping,2025-07-19,275,0,Paid,leaf cleanup and haul away
+J-1102,Blue Lick Auto Parts,Prestonsburg,HVAC,2025-07-20,670,466,Overdue,thermostat swapped for programmable model
+J-1103,Grassy Ridge Rentals,Prestonsburg,Roofing,2025-07-21,2385,1807,Overdue,full tear-off and new metal roof
+J-1104,Shelby Gap Daycare,Elkhorn City,Plumbing,2025-07-22,435,435,Invoiced,cleared clogged kitchen drain line
+J-1105,Hollow Creek Insurance,Whitesburg,Painting,2025-07-25,470,0,Paid,touched up scuffed hallway walls
+J-1106,Copper Creek Dental,Elkhorn City,Electrical,2025-07-30,5030,4556,Overdue,wired backup generator transfer switch
+J-1107,Grassy Ridge Realty,Whitesburg,Landscaping,2025-08-07,640,640,Invoiced,weekly mowing and trimming
+J-1108,Lone Oak Motel,Pikeville,Landscaping,2025-08-09,1105,0,Paid,weekly mowing and trimming
+J-1109,Twin Rivers Rentals,Inez,Electrical,2025-08-10,5605,5605,Invoiced,upgraded service panel to 200 amp
+J-1110,Long Branch Florist,Paintsville,Roofing,2025-08-14,3560,0,Paid,full tear-off and new metal roof
+J-1111,Redbud Clinic,Prestonsburg,Electrical,2025-08-14,2920,0,Paid,upgraded service panel to 200 amp
+J-1112,Laurel Gap Clinic,Whitesburg,Electrical,2025-08-15,510,342,Overdue,flickering lights traced to loose neutral
+J-1113,Lone Oak Law Office,Inez,Roofing,2025-08-15,755,0,Paid,"storm damage, replaced missing shingles"
+J-1114,Long Branch Law Office,Elkhorn City,Plumbing,2025-08-16,110,45,Overdue,"burst pipe under crawlspace, patched and insulated"
+J-1115,Copper Creek Dental,Pikeville,Landscaping,2025-08-17,755,0,Paid,spread mulch and planted shrubs at entrance
+J-1116,Mill Run Law Office,Pikeville,Roofing,2025-08-18,285,285,Invoiced,patched flat roof membrane over office
+J-1117,Coal Hollow Storage,Belfry,Electrical,2025-08-18,975,308,Overdue,"parking lot lamps out, replaced ballasts"
+J-1118,Twin Rivers Tax Service,Paintsville,Roofing,2025-08-23,1125,1125,Invoiced,"storm damage, replaced missing shingles"
+J-1119,Coal Hollow Insurance,Paintsville,Electrical,2025-08-25,4095,0,Paid,wired backup generator transfer switch
+J-1120,Redbud Motel,Paintsville,HVAC,2025-08-27,265,265,Invoiced,thermostat swapped for programmable model
+J-1121,Pine Knob Church,Paintsville,Electrical,2025-08-28,5015,0,Paid,wired backup generator transfer switch
+J-1122,Cedar Branch Motel,Whitesburg,Roofing,2025-08-28,590,0,Paid,"storm damage, replaced missing shingles"
+J-1123,Copper Creek Florist,Prestonsburg,Electrical,2025-08-30,4825,3516,Overdue,wired backup generator transfer switch
+J-1124,Copper Creek Insurance,Pikeville,Plumbing,2025-09-01,285,0,Paid,"sewer backup in basement, snaked main line"
+J-1125,Redbud Auto Parts,Whitesburg,HVAC,2025-09-02,885,0,Paid,duct cleaning and new filters throughout
+J-1126,Twin Rivers Motel,Whitesburg,Painting,2025-09-02,510,510,Invoiced,pressure washed and stained deck
+J-1127,Big Shoal Florist,Prestonsburg,Painting,2025-09-04,845,845,Invoiced,pressure washed and stained deck
+J-1128,Redbud Daycare,Inez,Landscaping,2025-09-06,785,785,Invoiced,spread mulch and planted shrubs at entrance
+J-1129,Shelby Gap Storage,Whitesburg,Painting,2025-09-08,95,95,Invoiced,interior repaint of waiting area
+J-1130,Stony Point Rentals,Pikeville,HVAC,2025-09-08,710,0,Paid,thermostat swapped for programmable model
+J-1131,Rock Bridge Realty,Paintsville,Plumbing,2025-09-08,740,606,Overdue,"toilet running constantly, new flapper and fill valve"
+J-1132,Lone Oak Pharmacy,Pikeville,Landscaping,2025-09-12,110,110,Invoiced,regraded yard to fix standing water
+J-1133,Redbud Clinic,Prestonsburg,Roofing,2025-09-13,595,0,Paid,patched flat roof membrane over office
+J-1134,Rock Bridge Realty,Inez,HVAC,2025-09-16,5895,0,Paid,replaced blower motor on rooftop unit
+J-1135,Laurel Gap Florist,Paintsville,Landscaping,2025-09-18,205,172,Overdue,leaf cleanup and haul away
+J-1136,Coal Hollow Storage,Paintsville,Painting,2025-09-19,215,206,Overdue,pressure washed and stained deck
+J-1137,Big Shoal Pharmacy,Paintsville,Plumbing,2025-09-20,230,0,Paid,"burst pipe under crawlspace, patched and insulated"
+J-1138,Grassy Ridge Rentals,Pikeville,HVAC,2025-09-20,190,0,Paid,thermostat swapped for programmable model
+J-1139,Hemlock Florist,Pikeville,Electrical,2025-09-21,825,372,Overdue,installed new outlets in break room
+J-1140,Mill Run Rentals,Whitesburg,Landscaping,2025-09-22,285,0,Paid,removed fallen tree after windstorm
+J-1141,Copper Creek Dental,Whitesburg,Painting,2025-09-23,880,707,Overdue,interior repaint of waiting area
+J-1142,Sandy Fork Law Office,Belfry,Electrical,2025-09-24,545,0,Paid,"breaker keeps tripping, replaced panel breaker"
+J-1143,Hollow Creek Diner,Whitesburg,Roofing,2025-09-27,185,0,Paid,"gutters pulled loose, rehung and cleaned"
+J-1144,Big Shoal Florist,Inez,Roofing,2025-09-28,565,314,Overdue,patched flat roof membrane over office
+J-1145,Ridgeview Tax Service,Belfry,Landscaping,2025-09-29,520,0,Paid,regraded yard to fix standing water
+J-1146,Copper Creek Florist,Elkhorn City,Electrical,2025-09-29,675,0,Paid,"breaker keeps tripping, replaced panel breaker"
+J-1147,Coal Hollow Dental,Paintsville,HVAC,2025-09-30,4165,0,Paid,replaced blower motor on rooftop unit
+J-1148,Laurel Gap Clinic,Elkhorn City,Landscaping,2025-10-01,445,445,Invoiced,weekly mowing and trimming
+J-1149,Grassy Ridge Insurance,Prestonsburg,Electrical,2025-10-04,5180,3415,Overdue,upgraded service panel to 200 amp
+J-1150,Copper Creek Bakery,Belfry,HVAC,2025-10-05,710,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1151,Lone Oak Motel,Hazard,Painting,2025-10-06,330,330,Invoiced,pressure washed and stained deck
+J-1152,Stony Point Feed Store,Belfry,Painting,2025-10-09,975,0,Paid,touched up scuffed hallway walls
+J-1153,Copper Creek Apartments,Hazard,Painting,2025-10-19,810,798,Overdue,interior repaint of waiting area
+J-1154,Twin Rivers Tax Service,Inez,Electrical,2025-10-20,190,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1155,Laurel Gap Florist,Elkhorn City,Roofing,2025-10-24,4375,0,Paid,full tear-off and new metal roof
+J-1156,Copper Creek Florist,Pikeville,Painting,2025-10-27,740,0,Paid,touched up scuffed hallway walls
+J-1157,Rock Bridge Realty,Prestonsburg,Electrical,2025-10-27,415,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1158,Cedar Branch Motel,Pikeville,HVAC,2025-10-28,250,250,Invoiced,"air conditioner blowing warm, recharged refrigerant"
+J-1159,Big Shoal Pharmacy,Elkhorn City,Painting,2025-11-01,970,453,Overdue,touched up scuffed hallway walls
+J-1160,Twin Rivers Insurance,Paintsville,Painting,2025-11-02,545,545,Invoiced,interior repaint of waiting area
+J-1161,Long Branch Florist,Whitesburg,Electrical,2025-11-04,540,0,Paid,"breaker keeps tripping, replaced panel breaker"
+J-1162,Twin Rivers Tax Service,Belfry,Landscaping,2025-11-10,955,0,Paid,weekly mowing and trimming
+J-1163,Long Branch Law Office,Elkhorn City,Electrical,2025-11-10,1075,0,Paid,"breaker keeps tripping, replaced panel breaker"
+J-1164,Blue Lick Auto Parts,Pikeville,Landscaping,2025-11-10,770,0,Paid,leaf cleanup and haul away
+J-1165,Twin Rivers Tax Service,Inez,Painting,2025-11-11,815,0,Paid,touched up scuffed hallway walls
+J-1166,Hollow Creek Diner,Paintsville,Roofing,2025-11-12,645,202,Overdue,"ceiling stain from roof leak, resealed flashing"
+J-1167,Redbud Motel,Belfry,Landscaping,2025-11-14,165,0,Paid,removed fallen tree after windstorm
+J-1168,Twin Rivers Rentals,Whitesburg,Electrical,2025-11-15,1075,998,Overdue,"parking lot lamps out, replaced ballasts"
+J-1169,Shelby Gap Rentals,Hazard,HVAC,2025-11-15,140,0,Paid,thermostat swapped for programmable model
+J-1170,Coal Hollow Storage,Paintsville,HVAC,2025-11-17,610,0,Paid,"air conditioner blowing warm, recharged refrigerant"
+J-1171,Cedar Branch Dental,Elkhorn City,Landscaping,2025-11-19,790,268,Overdue,regraded yard to fix standing water
+J-1172,Big Shoal Auto Parts,Belfry,Painting,2025-11-19,350,251,Overdue,interior repaint of waiting area
+J-1173,Hemlock Florist,Paintsville,Landscaping,2025-11-19,295,0,Paid,regraded yard to fix standing water
+J-1174,Grassy Ridge Realty,Elkhorn City,Roofing,2025-11-20,115,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1175,Rock Bridge Dental,Prestonsburg,Plumbing,2025-11-21,610,610,Invoiced,fixed dripping faucet and replaced cartridge
+J-1176,Cedar Branch Motel,Inez,Electrical,2025-11-26,520,186,Overdue,"breaker keeps tripping, replaced panel breaker"
+J-1177,Stony Point Rentals,Paintsville,Electrical,2025-12-02,320,0,Paid,installed new outlets in break room
+J-1178,Hemlock Florist,Elkhorn City,Landscaping,2025-12-02,1180,0,Paid,leaf cleanup and haul away
+J-1179,Grassy Ridge Rentals,Belfry,HVAC,2025-12-03,795,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1180,Laurel Gap Florist,Inez,Painting,2025-12-06,470,425,Overdue,pressure washed and stained deck
+J-1181,Mill Run Rentals,Belfry,Electrical,2025-12-10,2860,0,Paid,wired backup generator transfer switch
+J-1182,Twin Rivers Motel,Hazard,Roofing,2025-12-11,1115,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1183,Laurel Gap Clinic,Pikeville,Roofing,2025-12-17,185,0,Paid,patched flat roof membrane over office
+J-1184,Hollow Creek Insurance,Inez,Plumbing,2025-12-25,930,930,Invoiced,fixed dripping faucet and replaced cartridge
+J-1185,Hemlock Realty,Prestonsburg,HVAC,2025-12-25,2815,2006,Overdue,replaced blower motor on rooftop unit
+J-1186,Lone Oak Law Office,Prestonsburg,Roofing,2025-12-26,250,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1187,Pine Knob Church,Hazard,Roofing,2025-12-26,1065,0,Paid,"storm damage, replaced missing shingles"
+J-1188,Blue Lick Insurance,Hazard,HVAC,2025-12-28,315,0,Paid,seasonal tune-up on heat pump
+J-1189,Cedar Branch Motel,Pikeville,Landscaping,2025-12-29,290,290,Invoiced,regraded yard to fix standing water
+J-1190,Sandy Fork Daycare,Elkhorn City,HVAC,2025-12-31,1055,0,Paid,duct cleaning and new filters throughout
+J-1191,Laurel Gap Florist,Prestonsburg,Roofing,2025-12-31,2820,0,Paid,full tear-off and new metal roof
+J-1192,Twin Rivers Rentals,Paintsville,Plumbing,2025-12-31,1060,1004,Overdue,fixed dripping faucet and replaced cartridge
+J-1193,Sandy Fork Daycare,Whitesburg,HVAC,2026-01-01,630,0,Paid,thermostat swapped for programmable model
+J-1194,Grassy Ridge Realty,Inez,Plumbing,2026-01-01,465,0,Paid,"sewer backup in basement, snaked main line"
+J-1195,Rock Bridge Feed Store,Elkhorn City,Landscaping,2026-01-01,380,380,Invoiced,weekly mowing and trimming
+J-1196,Long Branch Florist,Inez,Painting,2026-01-03,330,330,Invoiced,exterior trim scraped and repainted
+J-1197,Copper Creek Dental,Inez,Electrical,2026-01-05,390,265,Overdue,"parking lot lamps out, replaced ballasts"
+J-1198,Cedar Branch Dental,Hazard,Landscaping,2026-01-06,1140,780,Overdue,regraded yard to fix standing water
+J-1199,Stony Point Realty,Paintsville,Roofing,2026-01-08,4070,0,Paid,full tear-off and new metal roof
+J-1200,Cedar Branch Auto Parts,Elkhorn City,Plumbing,2026-01-13,1025,1025,Invoiced,"burst pipe under crawlspace, patched and insulated"
+J-1201,Mill Run Law Office,Prestonsburg,Plumbing,2026-01-13,6255,0,Paid,replaced leaking water heater in utility room
+J-1202,Coal Hollow Dental,Paintsville,Landscaping,2026-01-15,670,0,Paid,regraded yard to fix standing water
+J-1203,Redbud Church,Pikeville,Roofing,2026-01-17,445,0,Paid,"gutters pulled loose, rehung and cleaned"
+J-1204,Copper Creek Apartments,Paintsville,Landscaping,2026-01-19,1000,0,Paid,leaf cleanup and haul away
+J-1205,Coal Hollow Dental,Elkhorn City,Painting,2026-01-22,755,511,Overdue,interior repaint of waiting area
+J-1206,Long Branch Florist,Whitesburg,Landscaping,2026-01-23,850,850,Invoiced,weekly mowing and trimming
+J-1207,Rock Bridge Dental,Inez,Painting,2026-01-26,850,850,Invoiced,touched up scuffed hallway walls
+J-1208,Twin Rivers Storage,Prestonsburg,Painting,2026-01-26,100,0,Paid,interior repaint of waiting area
+J-1209,Grassy Ridge Realty,Prestonsburg,HVAC,2026-01-27,685,0,Paid,thermostat swapped for programmable model
+J-1210,Grassy Ridge Insurance,Prestonsburg,Electrical,2026-01-28,935,935,Invoiced,"breaker keeps tripping, replaced panel breaker"
+J-1211,Rock Bridge Dental,Prestonsburg,Plumbing,2026-01-30,150,0,Paid,"burst pipe under crawlspace, patched and insulated"
+J-1212,Stony Point Realty,Elkhorn City,Electrical,2026-01-30,580,0,Paid,flickering lights traced to loose neutral
+J-1213,Stony Point Realty,Pikeville,HVAC,2026-02-01,850,850,Invoiced,"air conditioner blowing warm, recharged refrigerant"
+J-1214,Grassy Ridge Insurance,Belfry,Landscaping,2026-02-04,1120,942,Overdue,leaf cleanup and haul away
+J-1215,Hollow Creek Pharmacy,Prestonsburg,Roofing,2026-02-05,115,0,Paid,"storm damage, replaced missing shingles"
+J-1216,Grassy Ridge Rentals,Belfry,Roofing,2026-02-07,865,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1217,Rock Bridge Dental,Elkhorn City,Painting,2026-02-09,1050,0,Paid,pressure washed and stained deck
+J-1218,Mill Run Rentals,Hazard,Roofing,2026-02-11,895,461,Overdue,"gutters pulled loose, rehung and cleaned"
+J-1219,Sandy Fork Law Office,Pikeville,Electrical,2026-02-17,895,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1220,Coal Hollow Insurance,Whitesburg,Painting,2026-02-17,490,0,Paid,pressure washed and stained deck
+J-1221,Copper Creek Insurance,Inez,Painting,2026-02-18,140,0,Paid,interior repaint of waiting area
+J-1222,Shelby Gap Daycare,Prestonsburg,HVAC,2026-02-20,1025,0,Paid,seasonal tune-up on heat pump
+J-1223,Redbud Daycare,Hazard,HVAC,2026-02-20,810,810,Invoiced,"air conditioner blowing warm, recharged refrigerant"
+J-1224,Cedar Branch Dental,Pikeville,Roofing,2026-02-22,5935,0,Paid,full tear-off and new metal roof
+J-1225,Shelby Gap Daycare,Pikeville,Painting,2026-02-24,510,0,Paid,exterior trim scraped and repainted
+J-1226,Copper Creek Florist,Hazard,Landscaping,2026-02-25,755,755,Invoiced,removed fallen tree after windstorm
+J-1227,Cedar Branch Auto Parts,Pikeville,Electrical,2026-02-26,5565,0,Paid,upgraded service panel to 200 amp
+J-1228,Grassy Ridge Insurance,Belfry,Roofing,2026-03-01,1890,945,Overdue,full tear-off and new metal roof
+J-1229,Mill Run Law Office,Paintsville,HVAC,2026-03-03,245,0,Paid,duct cleaning and new filters throughout
+J-1230,Hollow Creek Storage,Elkhorn City,Roofing,2026-03-04,545,298,Overdue,patched flat roof membrane over office
+J-1231,Rock Bridge Dental,Inez,Roofing,2026-03-05,7065,0,Paid,full tear-off and new metal roof
+J-1232,Pine Knob Apartments,Pikeville,Painting,2026-03-07,610,0,Paid,exterior trim scraped and repainted
+J-1233,Pine Knob Apartments,Whitesburg,Plumbing,2026-03-07,7705,7705,Invoiced,replaced leaking water heater in utility room
+J-1234,Long Branch Law Office,Whitesburg,HVAC,2026-03-08,555,475,Overdue,"air conditioner blowing warm, recharged refrigerant"
+J-1235,Big Shoal Florist,Inez,Painting,2026-03-11,665,624,Overdue,interior repaint of waiting area
+J-1236,Hollow Creek Pharmacy,Inez,Electrical,2026-03-13,995,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1237,Twin Rivers Insurance,Inez,Landscaping,2026-03-15,315,0,Paid,leaf cleanup and haul away
+J-1238,Copper Creek Dental,Inez,Electrical,2026-03-16,4535,0,Paid,upgraded service panel to 200 amp
+J-1239,Pine Knob Church,Belfry,Electrical,2026-03-16,6185,0,Paid,wired backup generator transfer switch
+J-1240,Pine Knob Apartments,Prestonsburg,Roofing,2026-03-17,600,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1241,Pine Knob Apartments,Prestonsburg,Roofing,2026-03-17,855,0,Paid,patched flat roof membrane over office
+J-1242,Ridgeview Daycare,Paintsville,Roofing,2026-03-18,315,0,Paid,"storm damage, replaced missing shingles"
+J-1243,Hemlock Florist,Hazard,Landscaping,2026-03-23,525,0,Paid,spread mulch and planted shrubs at entrance
+J-1244,Rock Bridge Law Office,Whitesburg,Roofing,2026-03-25,365,0,Paid,"gutters pulled loose, rehung and cleaned"
+J-1245,Rock Bridge Law Office,Belfry,Landscaping,2026-03-25,245,0,Paid,spread mulch and planted shrubs at entrance
+J-1246,Lone Oak Apartments,Whitesburg,HVAC,2026-03-27,845,0,Paid,duct cleaning and new filters throughout
+J-1247,Copper Creek Motel,Hazard,HVAC,2026-03-29,295,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1248,Coal Hollow Dental,Prestonsburg,Plumbing,2026-04-01,585,585,Invoiced,"toilet running constantly, new flapper and fill valve"
+J-1249,Rock Bridge Feed Store,Elkhorn City,Landscaping,2026-04-02,1085,0,Paid,regraded yard to fix standing water
+J-1250,Grassy Ridge Florist,Inez,HVAC,2026-04-03,490,214,Overdue,thermostat swapped for programmable model
+J-1251,Lone Oak Apartments,Prestonsburg,Painting,2026-04-03,975,543,Overdue,exterior trim scraped and repainted
+J-1252,Cedar Branch Motel,Pikeville,Painting,2026-04-03,645,365,Overdue,interior repaint of waiting area
+J-1253,Lone Oak Apartments,Elkhorn City,Landscaping,2026-04-04,885,415,Overdue,removed fallen tree after windstorm
+J-1254,Grassy Ridge Insurance,Prestonsburg,Painting,2026-04-05,655,0,Paid,interior repaint of waiting area
+J-1255,Twin Rivers Feed Store,Inez,Landscaping,2026-04-13,990,565,Overdue,regraded yard to fix standing water
+J-1256,Blue Lick Florist,Hazard,Painting,2026-04-17,340,0,Paid,interior repaint of waiting area
+J-1257,Hollow Creek Pharmacy,Inez,HVAC,2026-04-18,1080,0,Paid,"air conditioner blowing warm, recharged refrigerant"
+J-1258,Stony Point Rentals,Belfry,HVAC,2026-04-19,275,209,Overdue,"furnace not igniting, replaced flame sensor"
+J-1259,Grassy Ridge Realty,Inez,Landscaping,2026-04-22,580,0,Paid,regraded yard to fix standing water
+J-1260,Grassy Ridge Realty,Pikeville,Plumbing,2026-04-23,290,0,Paid,"toilet running constantly, new flapper and fill valve"
+J-1261,Copper Creek Florist,Hazard,Plumbing,2026-04-24,385,0,Paid,"sewer backup in basement, snaked main line"
+J-1262,Big Shoal Pharmacy,Paintsville,Plumbing,2026-04-25,935,0,Paid,"burst pipe under crawlspace, patched and insulated"
+J-1263,Copper Creek Dental,Pikeville,Electrical,2026-04-26,955,955,Invoiced,flickering lights traced to loose neutral
+J-1264,Big Shoal Diner,Belfry,HVAC,2026-04-26,4460,1791,Overdue,replaced blower motor on rooftop unit
+J-1265,Mill Run Rentals,Paintsville,HVAC,2026-05-01,885,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1266,Copper Creek Motel,Pikeville,Electrical,2026-05-02,6930,0,Paid,upgraded service panel to 200 amp
+J-1267,Long Branch Law Office,Pikeville,Landscaping,2026-05-04,925,758,Overdue,removed fallen tree after windstorm
+J-1268,Long Branch Clinic,Paintsville,Electrical,2026-05-08,430,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1269,Redbud Auto Parts,Prestonsburg,Electrical,2026-05-09,2960,0,Paid,upgraded service panel to 200 amp
+J-1270,Copper Creek Insurance,Prestonsburg,HVAC,2026-05-12,745,745,Invoiced,"air conditioner blowing warm, recharged refrigerant"
+J-1271,Rock Bridge Realty,Inez,Roofing,2026-05-14,845,845,Invoiced,"gutters pulled loose, rehung and cleaned"
+J-1272,Hollow Creek Insurance,Elkhorn City,Roofing,2026-05-16,1175,1091,Overdue,"storm damage, replaced missing shingles"
+J-1273,Lone Oak Pharmacy,Belfry,Roofing,2026-05-18,990,0,Paid,"storm damage, replaced missing shingles"
+J-1274,Mill Run Rentals,Belfry,Electrical,2026-05-22,6480,0,Paid,upgraded service panel to 200 amp
+J-1275,Cedar Branch Motel,Hazard,Landscaping,2026-05-27,360,0,Paid,spread mulch and planted shrubs at entrance
+J-1276,Lone Oak Law Office,Belfry,Painting,2026-05-29,660,0,Paid,interior repaint of waiting area
+J-1277,Stony Point Realty,Pikeville,Electrical,2026-05-30,6395,2880,Overdue,wired backup generator transfer switch
+J-1278,Redbud Daycare,Paintsville,Plumbing,2026-05-31,770,770,Invoiced,"toilet running constantly, new flapper and fill valve"
+J-1279,Rock Bridge Diner,Prestonsburg,Plumbing,2026-05-31,550,550,Invoiced,fixed dripping faucet and replaced cartridge
+J-1280,Twin Rivers Tax Service,Prestonsburg,Plumbing,2026-06-01,920,0,Paid,cleared clogged kitchen drain line
+J-1281,Sandy Fork Law Office,Pikeville,Electrical,2026-06-02,1090,1090,Invoiced,"parking lot lamps out, replaced ballasts"
+J-1282,Copper Creek Bakery,Hazard,Plumbing,2026-06-03,970,0,Paid,"toilet running constantly, new flapper and fill valve"
+J-1283,Big Shoal Florist,Belfry,Painting,2026-06-09,1155,731,Overdue,pressure washed and stained deck
+J-1284,Copper Creek Dental,Paintsville,Landscaping,2026-06-10,150,150,Invoiced,leaf cleanup and haul away
+J-1285,Copper Creek Insurance,Prestonsburg,Plumbing,2026-06-11,815,815,Invoiced,"toilet running constantly, new flapper and fill valve"
+J-1286,Lone Oak Law Office,Hazard,Electrical,2026-06-15,545,166,Overdue,"breaker keeps tripping, replaced panel breaker"
+J-1287,Hollow Creek Diner,Prestonsburg,Plumbing,2026-06-15,445,381,Overdue,"sewer backup in basement, snaked main line"
+J-1288,Long Branch Clinic,Inez,Painting,2026-06-16,645,0,Paid,pressure washed and stained deck
+J-1289,Sandy Fork Law Office,Prestonsburg,Plumbing,2026-06-23,445,445,Invoiced,fixed dripping faucet and replaced cartridge
+J-1290,Blue Lick Rentals,Elkhorn City,Landscaping,2026-06-28,1070,547,Overdue,removed fallen tree after windstorm
+J-1291,Hemlock Realty,Whitesburg,Roofing,2026-06-28,280,0,Paid,patched flat roof membrane over office
+J-1292,Big Shoal Florist,Belfry,HVAC,2026-07-03,330,0,Paid,thermostat swapped for programmable model
+J-1293,Twin Rivers Rentals,Whitesburg,Electrical,2026-07-07,885,0,Paid,flickering lights traced to loose neutral
+J-1294,Grassy Ridge Florist,Prestonsburg,Electrical,2026-07-09,1185,0,Paid,"breaker keeps tripping, replaced panel breaker"
+J-1295,Hemlock Rentals,Prestonsburg,Roofing,2026-07-10,130,0,Paid,"gutters pulled loose, rehung and cleaned"
+J-1296,Cedar Branch Auto Parts,Whitesburg,Painting,2026-07-13,1140,1122,Overdue,exterior trim scraped and repainted
+J-1297,Rock Bridge Bakery,Whitesburg,Roofing,2026-07-17,610,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1298,Rock Bridge Dental,Inez,Roofing,2026-07-17,135,0,Paid,"storm damage, replaced missing shingles"
+J-1299,Blue Lick Insurance,Paintsville,Roofing,2026-07-18,290,0,Paid,patched flat roof membrane over office
+J-1300,Rock Bridge Bakery,Elkhorn City,Plumbing,2026-07-21,1160,0,Paid,"sewer backup in basement, snaked main line"
+J-1301,Laurel Gap Clinic,Elkhorn City,Roofing,2026-07-22,860,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1302,Copper Creek Bakery,Elkhorn City,HVAC,2026-07-23,6345,6326,Overdue,replaced blower motor on rooftop unit
+J-1303,Shelby Gap Daycare,Belfry,Plumbing,2026-07-23,410,0,Paid,"sewer backup in basement, snaked main line"
+J-1304,Copper Creek Dental,Hazard,HVAC,2026-07-23,665,0,Paid,seasonal tune-up on heat pump
+J-1305,Shelby Gap Church,Pikeville,Roofing,2026-07-29,495,0,Paid,"storm damage, replaced missing shingles"
+J-1306,Mill Run Law Office,Whitesburg,Electrical,2026-07-30,1090,1090,Invoiced,"parking lot lamps out, replaced ballasts"
+J-1307,Laurel Gap Florist,Hazard,Painting,2026-07-31,685,0,Paid,pressure washed and stained deck
+J-1308,Shelby Gap Daycare,Elkhorn City,Painting,2026-08-01,895,895,Invoiced,pressure washed and stained deck
+J-1309,Redbud Florist,Hazard,HVAC,2026-08-02,800,564,Overdue,seasonal tune-up on heat pump
+J-1310,Copper Creek Dental,Prestonsburg,Electrical,2026-08-03,640,0,Paid,installed new outlets in break room
+J-1311,Big Shoal Pharmacy,Hazard,Painting,2026-08-06,675,675,Invoiced,pressure washed and stained deck
+J-1312,Laurel Gap Florist,Belfry,Landscaping,2026-08-07,1190,1190,Invoiced,weekly mowing and trimming
+J-1313,Lone Oak Pharmacy,Prestonsburg,Plumbing,2026-08-09,2805,0,Paid,replaced leaking water heater in utility room
+J-1314,Sandy Fork Law Office,Elkhorn City,Roofing,2026-08-09,1100,1100,Invoiced,patched flat roof membrane over office
+J-1315,Lone Oak Law Office,Paintsville,Landscaping,2026-08-09,295,0,Paid,removed fallen tree after windstorm
+J-1316,Blue Lick Florist,Belfry,HVAC,2026-08-10,1010,700,Overdue,"furnace not igniting, replaced flame sensor"
+J-1317,Rock Bridge Dental,Whitesburg,Roofing,2026-08-12,1065,0,Paid,"storm damage, replaced missing shingles"
+J-1318,Twin Rivers Insurance,Belfry,Landscaping,2026-08-14,1125,0,Paid,spread mulch and planted shrubs at entrance
+J-1319,Big Shoal Diner,Pikeville,Electrical,2026-08-14,510,510,Invoiced,flickering lights traced to loose neutral
+J-1320,Redbud Daycare,Prestonsburg,Painting,2026-08-19,500,0,Paid,interior repaint of waiting area
+J-1321,Hollow Creek Storage,Hazard,Roofing,2026-08-25,655,0,Paid,"storm damage, replaced missing shingles"
+J-1322,Long Branch Clinic,Elkhorn City,Roofing,2026-08-28,180,180,Invoiced,patched flat roof membrane over office
+J-1323,Twin Rivers Tax Service,Whitesburg,Roofing,2026-08-29,325,306,Overdue,"ceiling stain from roof leak, resealed flashing"
+J-1324,Cedar Branch Motel,Belfry,Landscaping,2026-08-30,985,985,Invoiced,removed fallen tree after windstorm
+J-1325,Grassy Ridge Insurance,Paintsville,Roofing,2026-08-30,450,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1326,Mill Run Rentals,Elkhorn City,HVAC,2026-08-30,270,0,Paid,"air conditioner blowing warm, recharged refrigerant"
+J-1327,Shelby Gap Storage,Whitesburg,Painting,2026-08-31,1090,0,Paid,pressure washed and stained deck
+J-1328,Hollow Creek Diner,Whitesburg,Roofing,2026-09-01,1105,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1329,Rock Bridge Law Office,Paintsville,HVAC,2026-09-01,370,0,Paid,thermostat swapped for programmable model
+J-1330,Grassy Ridge Rentals,Pikeville,HVAC,2026-09-02,800,0,Paid,"air conditioner blowing warm, recharged refrigerant"
+J-1331,Copper Creek Bakery,Elkhorn City,Plumbing,2026-09-03,430,430,Invoiced,"sewer backup in basement, snaked main line"
+J-1332,Coal Hollow Dental,Prestonsburg,Roofing,2026-09-14,1090,860,Overdue,"storm damage, replaced missing shingles"
+J-1333,Redbud Clinic,Paintsville,Landscaping,2026-09-14,1090,812,Overdue,weekly mowing and trimming
+J-1334,Redbud Florist,Paintsville,HVAC,2026-09-16,1945,0,Paid,replaced blower motor on rooftop unit
+J-1335,Twin Rivers Storage,Pikeville,Painting,2026-09-18,720,0,Paid,pressure washed and stained deck
+J-1336,Big Shoal Diner,Prestonsburg,Plumbing,2026-09-20,750,0,Paid,"burst pipe under crawlspace, patched and insulated"
+J-1337,Copper Creek Dental,Hazard,Electrical,2026-09-20,555,473,Overdue,installed new outlets in break room
+J-1338,Laurel Gap Florist,Whitesburg,Roofing,2026-09-25,600,600,Invoiced,patched flat roof membrane over office
+J-1339,Mill Run Pharmacy,Inez,HVAC,2026-09-25,435,0,Paid,"furnace not igniting, replaced flame sensor"
+J-1340,Blue Lick Auto Parts,Prestonsburg,Roofing,2026-09-28,3170,3170,Invoiced,full tear-off and new metal roof
+J-1341,Big Shoal Pharmacy,Paintsville,Painting,2026-10-03,630,0,Paid,exterior trim scraped and repainted
+J-1342,Mill Run Rentals,Pikeville,Landscaping,2026-10-07,290,0,Paid,weekly mowing and trimming
+J-1343,Copper Creek Florist,Paintsville,Painting,2026-10-08,555,555,Invoiced,pressure washed and stained deck
+J-1344,Rock Bridge Bakery,Prestonsburg,HVAC,2026-10-09,1110,0,Paid,seasonal tune-up on heat pump
+J-1345,Shelby Gap Rentals,Prestonsburg,Landscaping,2026-10-09,485,326,Overdue,leaf cleanup and haul away
+J-1346,Pine Knob Apartments,Prestonsburg,Landscaping,2026-10-10,265,204,Overdue,spread mulch and planted shrubs at entrance
+J-1347,Copper Creek Bakery,Whitesburg,HVAC,2026-10-11,230,144,Overdue,"furnace not igniting, replaced flame sensor"
+J-1348,Hollow Creek Diner,Elkhorn City,Plumbing,2026-10-11,475,0,Paid,fixed dripping faucet and replaced cartridge
+J-1349,Grassy Ridge Insurance,Belfry,Electrical,2026-10-13,125,0,Paid,flickering lights traced to loose neutral
+J-1350,Rock Bridge Dental,Pikeville,HVAC,2026-10-15,450,450,Invoiced,"furnace not igniting, replaced flame sensor"
+J-1351,Twin Rivers Rentals,Whitesburg,Electrical,2026-10-16,610,0,Paid,flickering lights traced to loose neutral
+J-1352,Lone Oak Apartments,Whitesburg,Roofing,2026-10-17,495,0,Paid,patched flat roof membrane over office
+J-1353,Twin Rivers Motel,Prestonsburg,Roofing,2026-10-18,415,0,Paid,"ceiling stain from roof leak, resealed flashing"
+J-1354,Redbud Florist,Paintsville,Painting,2026-10-23,1095,0,Paid,interior repaint of waiting area
+J-1355,Redbud Florist,Elkhorn City,Roofing,2026-10-23,975,0,Paid,"gutters pulled loose, rehung and cleaned"
+J-1356,Hollow Creek Pharmacy,Paintsville,Roofing,2026-10-27,545,545,Invoiced,"gutters pulled loose, rehung and cleaned"
+J-1357,Mill Run Pharmacy,Prestonsburg,HVAC,2026-10-27,1075,0,Paid,duct cleaning and new filters throughout
+J-1358,Rock Bridge Feed Store,Whitesburg,Electrical,2026-10-27,4950,0,Paid,wired backup generator transfer switch
+J-1359,Copper Creek Dental,Whitesburg,Electrical,2026-10-30,720,0,Paid,"parking lot lamps out, replaced ballasts"
+J-1360,Twin Rivers Motel,Prestonsburg,Landscaping,2026-10-30,735,0,Paid,spread mulch and planted shrubs at entrance
